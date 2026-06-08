@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rasika-gup
 - 👀 I’m interested in Machine Learning, Computer Vision, Data Science, Data Analytics.
 - 🌱 I’m currently learning Deep Learning
-- 💞️ Intern at Invetia Technologies, Noida
+- 💞️ Intern at Inventia Technologies, Noida
 - 📫 Vellore Institute of Technology, Chennai ( CSE-Ai ML)
 - 😄 Pronouns: she/her
 
